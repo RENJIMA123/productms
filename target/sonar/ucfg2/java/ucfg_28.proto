@@ -1,16 +1,16 @@
 
-Dcom.management.ProductMS.entity.Product#getBrand()Ljava/lang/String;q
-gC:/Users/Priyaguddinti/eclipse/sampleproduct/src/main/java/com/management/ProductMS/entity/Product.java+ +("1*’
-1q
-gC:/Users/Priyaguddinti/eclipse/sampleproduct/src/main/java/com/management/ProductMS/entity/Product.java,	 ,(Ã
-…
-q
-gC:/Users/Priyaguddinti/eclipse/sampleproduct/src/main/java/com/management/ProductMS/entity/Product.java,	 ,(
+Dcom.management.ProductMS.entity.Product#getBrand()Ljava/lang/String;p
+fC:/Users/Renjima/Desktop/sprint 2/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java+ +("1*“
+1p
+fC:/Users/Renjima/Desktop/sprint 2/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java,	 ,(À
+»
+p
+fC:/Users/Renjima/Desktop/sprint 2/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java,	 ,(
 %0java.lang.String"__id*6*4)
 'com.management.ProductMS.entity.Product"
-brand"ç
-q
-gC:/Users/Priyaguddinti/eclipse/sampleproduct/src/main/java/com/management/ProductMS/entity/Product.java, ,(
+brand"å
+p
+fC:/Users/Renjima/Desktop/sprint 2/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java, ,(
 
 %0java.lang.StringB+)
 'com.management.ProductMS.entity.Product
