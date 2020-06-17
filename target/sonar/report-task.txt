@@ -1,0 +1,7 @@
+organization=guddintipriyanka
+projectKey=GuddintiPriyanka_productms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=GuddintiPriyanka_productms
+ceTaskId=AXK5ESYO4fSif5zYC_W7
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK5ESYO4fSif5zYC_W7
